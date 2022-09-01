@@ -1,0 +1,12 @@
+C:\INVENET\INVENET.App\INVENET.App.Dominio\bin\Debug\net7.0\INVENET.App.Dominio.deps.json
+C:\INVENET\INVENET.App\INVENET.App.Dominio\bin\Debug\net7.0\INVENET.App.Dominio.dll
+C:\INVENET\INVENET.App\INVENET.App.Dominio\bin\Debug\net7.0\INVENET.App.Dominio.pdb
+C:\INVENET\INVENET.App\INVENET.App.Dominio\obj\Debug\net7.0\INVENET.App.Dominio.csproj.AssemblyReference.cache
+C:\INVENET\INVENET.App\INVENET.App.Dominio\obj\Debug\net7.0\INVENET.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\INVENET\INVENET.App\INVENET.App.Dominio\obj\Debug\net7.0\INVENET.App.Dominio.AssemblyInfoInputs.cache
+C:\INVENET\INVENET.App\INVENET.App.Dominio\obj\Debug\net7.0\INVENET.App.Dominio.AssemblyInfo.cs
+C:\INVENET\INVENET.App\INVENET.App.Dominio\obj\Debug\net7.0\INVENET.App.Dominio.csproj.CoreCompileInputs.cache
+C:\INVENET\INVENET.App\INVENET.App.Dominio\obj\Debug\net7.0\INVENET.App.Dominio.dll
+C:\INVENET\INVENET.App\INVENET.App.Dominio\obj\Debug\net7.0\refint\INVENET.App.Dominio.dll
+C:\INVENET\INVENET.App\INVENET.App.Dominio\obj\Debug\net7.0\INVENET.App.Dominio.pdb
+C:\INVENET\INVENET.App\INVENET.App.Dominio\obj\Debug\net7.0\ref\INVENET.App.Dominio.dll

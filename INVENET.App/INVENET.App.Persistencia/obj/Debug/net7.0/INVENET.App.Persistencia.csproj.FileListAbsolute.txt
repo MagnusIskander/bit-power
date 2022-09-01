@@ -1,0 +1,17 @@
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\bin\Debug\net7.0\INVENET.App.Persistencia.deps.json
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\bin\Debug\net7.0\INVENET.App.Persistencia.dll
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\bin\Debug\net7.0\INVENET.App.Persistencia.pdb
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\obj\Debug\net7.0\INVENET.App.Persistencia.csproj.AssemblyReference.cache
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\obj\Debug\net7.0\INVENET.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\obj\Debug\net7.0\INVENET.App.Persistencia.AssemblyInfoInputs.cache
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\obj\Debug\net7.0\INVENET.App.Persistencia.AssemblyInfo.cs
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\obj\Debug\net7.0\INVENET.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\obj\Debug\net7.0\INVENET.App.Persistencia.dll
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\obj\Debug\net7.0\refint\INVENET.App.Persistencia.dll
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\obj\Debug\net7.0\INVENET.App.Persistencia.pdb
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\obj\Debug\net7.0\ref\INVENET.App.Persistencia.dll
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\bin\Debug\net7.0\INVENET.App.Persistencia.runtimeconfig.json
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\bin\Debug\net7.0\INVENET.App.Dominio.dll
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\bin\Debug\net7.0\INVENET.App.Dominio.pdb
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\obj\Debug\net7.0\INVENET.App.Persistencia.csproj.CopyComplete
+C:\INVENET\INVENET.App\INVENET.App.Persistencia\obj\Debug\net7.0\INVENET.App.Persistencia.genruntimeconfig.cache
